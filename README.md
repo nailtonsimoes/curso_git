@@ -1,5 +1,5 @@
 # Descrição
-- Curso de Git
+- Curso de Git e github
 # Aluno
 - Nailton
 # Instrutor
